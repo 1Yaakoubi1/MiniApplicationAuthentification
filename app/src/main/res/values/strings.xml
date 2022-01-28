@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mini Application Authentification</string>
+    <string name="login">Entrer votre login</string>
+    <string name="pass">password </string>
+    <string name="connect">connection </string>
+
+</resources>
